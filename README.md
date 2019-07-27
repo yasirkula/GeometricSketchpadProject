@@ -15,3 +15,4 @@ This is the final state of our course project for the demo presentation on *14 M
 
 *Geometric Sketchpad.jar* is an executable jar file and depends on the images in `./geometricSketchpad/images/`
 
+![screenshot](Image.png)
